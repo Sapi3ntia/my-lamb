@@ -1,0 +1,4 @@
+(executable
+ (public_name my-lamb)
+ (name main)
+ (libraries my_lamb linenoise))
