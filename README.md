@@ -1,4 +1,4 @@
-# my-lamb 🐑
+# 🐑
 A very shitty lambda calculus, extended with new features.
 
 - Literally just untyped lambda calculus.
